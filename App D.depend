@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\carla\desktop\aplicacion\app d\pila.c
+	"pila.h"
+
+1490112217 c:\users\carla\desktop\aplicacion\app d\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1561999550 source:c:\users\carla\desktop\aplicacion\app d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112217 source:c:\users\nahue\downloads\app d\pila.c
+	"pila.h"
+
+1490112217 c:\users\nahue\downloads\app d\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1562124974 source:c:\users\nahue\downloads\app d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112217 source:c:\users\nahue\desktop\calcdiab\app d\pila.c
+	"pila.h"
+
+1490112217 c:\users\nahue\desktop\calcdiab\app d\pila.h
+	<stdio.h>
+	<malloc.h>
+
